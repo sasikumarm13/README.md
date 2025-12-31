@@ -20,7 +20,7 @@ My work focuses on **accuracy, auditability, and operational efficiency**, helpi
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skreddy_13/profilecard/?igsh=NWtvdmJpd2RiOGc3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasi-kumar-ma87ab884)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasi-kumar-m)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasikumar0107@gmail.com)
 
 ---
